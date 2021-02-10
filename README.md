@@ -18,7 +18,7 @@ The repo conatines two charts . mediawiki-chart runs mediawiki app and mediawiki
 
 To run hop over to the chart and execute below command
 
-helm install <chart name>
+helm install chartname /directory
  
 example > helm install mediawiki ./mediawiki-chart and helm install database ./mediawiki-mariadb-chart
  
