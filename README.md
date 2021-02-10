@@ -3,7 +3,7 @@ Helm chart for mediawiki to deploy on kubernetes
 
 # Pre-requisites 
 
-1.) Docker and Kubernetes cluster on cloud or Raspberry pi. You can also run a minikube or docker for windows desktop . \
+1.) A Kubernetes cluster on cloud or Raspberry pi. You can also run a minikube or docker for windows desktop . \
 2.) Helm \
 3.) kubectl
 
@@ -13,7 +13,7 @@ helm v3.5.2
 
 # How to run 
 
-The repo conatines two charts . mediawiki-chart runs mediawiki app and mediawiki-mariadb-chart run databse for mediawiki app.
+The repo conatines two charts . mediawiki-chart runs mediawiki app and mediawiki-mariadb-chart run database for mediawiki app.
 
 To run hop over to the chart and execute below command
 
