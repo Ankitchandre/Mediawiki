@@ -9,7 +9,7 @@ Helm chart for mediawiki to deploy on kubernetes
 
 versions installed on my machine . \
 kubernetes v1.19.3 \
-helm v3.5.2
+helm v3.5.2 \
 docker image > achandre/mediawiki
 
 # How to run 
