@@ -14,9 +14,12 @@ docker image > achandre/mediawiki
 
 # How to run 
 
-The repo conatines two charts . mediawiki-chart runs mediawiki app and mediawiki-mariadb-chart run database for mediawiki app.
+The repo conatines two charts . 
 
-To run hop over to the chart and execute below command
+1.) mediawiki-chart runs mediawiki app \
+2.) mediawiki-mariadb-chart runs database for mediawiki app.
+
+To deploy, hop over to the chart and execute below command
 
 helm install chartname /directory
  
